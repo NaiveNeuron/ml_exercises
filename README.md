@@ -22,7 +22,7 @@ and extracting it to a `ml_exercises` repository.
 ## Installing the dependences
 
 It seems that by far the easiest way of getting all required dependences,
-especially the [Jupyter noteboos](http://jupyter.readthedocs.io/en/latest/install.html)
+especially the [Jupyter notebooks](http://jupyter.readthedocs.io/en/latest/install.html)
 is installing the [Anaconda distribution](https://www.anaconda.com/download/).
 
 Another option is installing the requirements from the `requirements.txt` file:
