@@ -1,3 +1,5 @@
 jupyter
 scipy
 numpy
+Pillow
+matplotlib
