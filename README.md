@@ -6,6 +6,11 @@ at the [Faculty of Mathematics, Physics and Informatics](https://fmph.uniba.sk/)
 of [Comenius University](https://uniba.sk/) in Bratislava, Slovakia. It
 consists of a number of Jupyter/IPython notebooks and associated Python files.
 
+The course goes provides an intoduction into the field of Machine Learning,
+while these excercises aim to give an opportunity to get practical experience
+with some of the [most often used](https://polygraph-cool.github.io/kaggle_survey/#what)
+methods.
+
 ## Using the repository
 
 In order to use this repository, it needs to be downloaded first. If `git` is
