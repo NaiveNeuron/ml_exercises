@@ -1,6 +1,0 @@
-jupyter
-scipy
-numpy
-Pillow
-matplotlib
-sklearn

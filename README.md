@@ -30,10 +30,6 @@ It seems that by far the easiest way of getting all required dependences,
 especially the [Jupyter notebooks](http://jupyter.readthedocs.io/en/latest/install.html)
 is installing the [Anaconda distribution](https://www.anaconda.com/download/).
 
-Another option is installing the requirements from the `requirements.txt` file:
-
-        $ pip install -r requirements.txt
-
 ## Running the notebooks
 
 Once the `jupyter` package has been installed in the previous sections, running
