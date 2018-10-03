@@ -1,10 +1,10 @@
-# Machine Learning Exercises (version 2017)
+# Machine Learning Exercises (version 2018)
 
 This repository contains a set of excercises prepared for the 2017 version of
 the [Machine Learning course](http://compbio.fmph.uniba.sk/vyuka/ml/) offered
 at the [Faculty of Mathematics, Physics and Informatics](https://fmph.uniba.sk/)
 of [Comenius University](https://uniba.sk/) in Bratislava, Slovakia. It
-consists of a number of Jupyter/IPython notebooks and associated Python files.
+consists of a number of Jupyter notebooks and associated Python files.
 
 The course goes provides an intoduction into the field of Machine Learning,
 while these excercises aim to give an opportunity to get practical experience
@@ -37,6 +37,10 @@ the notebooks should be as easy as running the following in the `ml_exercises`
 directory:
 
         $ jupyter notebook
+
+On Debian boxes, it is advisable to run the following command:
+
+        $ jupyter-notebook
 
 ## Issues
 
