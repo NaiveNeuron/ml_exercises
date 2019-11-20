@@ -86,7 +86,7 @@ def show_plot(kind='outlier'):
     X_1 = X[y == 1]
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    ax.set_title('click to add data points')
+    ax.set_title('A random data sample')
     class_1, = ax.plot(X_0[:, 0], X_0[:, 1], 'go')
     class_2, = ax.plot(X_1[:, 0], X_1[:, 1], 'ro')
     p = PlotBuilder([class_1, class_2], len(X), X, y)
