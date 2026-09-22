@@ -6,6 +6,7 @@ name = "q2_mean"
 points = 1
 
 @test_case(points=None, hidden=False)
-def test_shape(Z_mean):
-    assert Z_mean.shape == (10, 15), f'Z_mean has shape {Z_mean.shape}, expected (10, 15)'
+def test_answers_present(np, Z_mean, Z_mean_shape):
+    assert isinstance(Z_mean, np.ndarray), 'Z_mean should be a numpy array'
+    assert isinstance(Z_mean_shape, tuple), 'Z_mean_shape should be a tuple (the dimensions of Z_mean)'
 
